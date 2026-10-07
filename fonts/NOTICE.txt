@@ -1,0 +1,6 @@
+SongESongE Garden Body is a character subset of Pretendard Regular.
+SongESongE Garden Title is a character subset of Gowun Batang Bold.
+Subset and WOFF2 conversion: 2026-10-07, for the text of these support pages.
+The subset font family names have been changed. Original copyright and SIL
+Open Font License notices are preserved in the accompanying license files.
+When page text changes, regenerate the character subsets from both HTML files.
